@@ -2,6 +2,12 @@
 
 A Convolutional Neural Network (CNN) built using TensorFlow/Keras to classify animal images into different categories.
 
+## 📄 Research Manuscript
+This repository includes an unpublished technical research manuscript documenting the methodology, experiments, and results of this project.
+
+- [View Manuscript (PDF)](Animal_Species_Classification_CNN_Unpublished.pdf)
+
+
 ## 🧠 Model Architecture
 - 2 Convolutional layers + MaxPooling
 - Flatten + Dense layers
